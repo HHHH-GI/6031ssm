@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="6031ssm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/6031ssm_jar</output-path>
+    <root id="archive" name="6031ssm.jar" />
+  </artifact>
+</component>
